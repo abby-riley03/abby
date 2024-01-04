@@ -6,4 +6,6 @@
 - :musical_note:	i like listening to music
 
 - :clapper:	i enjoy watching movies and films
+
+- :taco: my favorit food is tacos
  ## my work
