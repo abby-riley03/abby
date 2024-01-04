@@ -4,4 +4,6 @@
 - :basketball:	i play basketball
   
 - :musical_note:	i like listening to music
+
+- :clapper:	i enjoy watching movies and films
  ## my work
