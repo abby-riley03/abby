@@ -1,11 +1,13 @@
-![octo-SMALL](https://github.com/abby-riley03/abby/assets/155670707/756c9798-36fe-48d2-8c50-80d09185bb69)
+
+ ![octocat-small 3](https://github.com/abby-riley03/abby/assets/155670707/afe3d1e4-d010-4a79-8585-ac03090d608d)
+
 - :smile:	hi i'm abby
-  
+
 - :basketball:	i play basketball
   
-- :musical_note:	i like listening to music
+- :musical_note:	i like to listen to music
 
-- :clapper:	i enjoy watching movies and films
+- :clapper:	i enjoy watching movies
 
 - :taco: my favorit food is tacos
  ## my work
