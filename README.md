@@ -9,5 +9,5 @@
 
 - :clapper:	i enjoy watching movies
 
-- :taco: my favorit food is tacos
+- :taco: my favorite food is tacos
  ## my work
