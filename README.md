@@ -9,5 +9,4 @@
 
 - 🏀:	i play basketball
 
-- :taco: my favorite food is tacos
  ## [portfolio](https://abby-riley03.github.io/portfolio/)
