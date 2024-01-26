@@ -3,11 +3,11 @@
 
 - :smile:	hi i'm abby
 
-- :basketball:	i play basketball
+- :softball:	i play softball
   
 - :musical_note:	i like to listen to music
 
-- :clapper:	i enjoy watching movies
+- 🏀:	i play basketball
 
 - :taco: my favorite food is tacos
  ## [portfolio](https://abby-riley03.github.io/portfolio/)
