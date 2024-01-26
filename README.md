@@ -10,4 +10,4 @@
 - :clapper:	i enjoy watching movies
 
 - :taco: my favorite food is tacos
- ## [my work]( https://abby-riley03.github.io/portfolio/)
+ ## [portfolio]( https://abby-riley03.github.io/portfolio/)
